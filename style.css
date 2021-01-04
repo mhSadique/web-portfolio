@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h2 {
     font-size: 50px;
@@ -8,9 +9,17 @@ h2 {
     color: orange;
 }
 .half-width {
-    width: 50%;
+    width: 40%;
     float: left;
+
 }
 .half-width img {
     width: 100%;
+}
+.top-section {
+    background-image: url("img/top-banner.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    margin-left: 5%;
+    padding-left: 5%;
 }
