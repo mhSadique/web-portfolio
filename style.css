@@ -19,14 +19,38 @@ h2 {
 .top-section {
     background-image: url("img/top-banner.png");
     height: 500px;
+    width: 100%;
     background-repeat: no-repeat;
-    margin-left: 5%;
+    margin-left:;
     padding-left: 5%;
+    padding-bottom: 100px;
 }
 .link-button {
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
-    background-image: linear-gradient(45deg, salmon, orange)
+    background-image: linear-gradient(45deg, salmon, orange);
+}
+.dream-half-width {
+    float: ;
+}
+.bottom {
+    padding-left: 20px;
+}
+.dream-down {
+    padding-left: 60px;
+}
+.dream-area {
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: right;
+}
+.top-img {
+    padding-left: 100px;
+}
+.pro-pic {
+    border: 1px solid orange;
+    border-radius: 100%;
 }
